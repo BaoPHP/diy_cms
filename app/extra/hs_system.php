@@ -30,6 +30,7 @@ return [
     ],
     // 系统会员等级，此处只为声明配置，app/common/behavior/Base.php 里面赋值
     'member_level'      => [],
+    'user_level'      => [],
     // 系统设置分组
     'config_group'      => [
         'base'      => '基础',
